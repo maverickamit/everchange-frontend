@@ -14,7 +14,7 @@
     "@uppy/core": "^1.13.1",
     "@uppy/file-input": "^1.4.17",
     "@uppy/react": "^1.10.5",
-    "axios": "^0.27.2",
+    "axios": "^1.8.2",
     "dotenv": "^8.2.0",
     "formik": "^2.1.4",
     "mobx": "^5.15.4",
